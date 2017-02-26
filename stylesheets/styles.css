@@ -55,7 +55,8 @@
 }
 
 body {
-  background-color: #fff;
+  background-color: #000;
+  background-img: url(https://i.imgur.com/KUtasrb.png);
   padding:50px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
@@ -63,7 +64,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#222;
+  color:#fed136;
   margin:0 0 20px;
 }
 
@@ -79,12 +80,9 @@ h1 {
   font-size:28px;
 }
 
-h2 {
-  color:#393939;
-}
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#777777;
 }
 
 a {
