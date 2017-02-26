@@ -87,12 +87,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#fed136;
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:#fec503;
 }
 
 a small {
@@ -103,7 +103,7 @@ a small {
 }
 
 a:hover small {
-  color:#777;
+  color:#fec503;
 }
 
 .wrapper {
@@ -120,7 +120,7 @@ blockquote {
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:#333;
+  color:#fed136;
   font-size:12px;
 }
 
@@ -207,7 +207,7 @@ header ul a:active {
 }
 
 strong {
-  color:#222;
+  color:#fed136;
   font-weight:700;
 }
 
@@ -219,7 +219,7 @@ header ul li + li + li {
 header ul a strong {
   font-size:14px;
   display:block;
-  color:#222;
+  color:#fed136;
 }
 
 section {
