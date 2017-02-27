@@ -251,6 +251,7 @@ footer {
   div.wrapper {
     width:auto;
     margin:auto;
+    position: absolute;
   }
 
   header, section, footer {
