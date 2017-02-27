@@ -63,6 +63,9 @@ body {
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
+  position: relative;
+	top: 50%;
+	transform: 			translateY(-50%)
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -251,9 +254,6 @@ footer {
   div.wrapper {
     width:auto;
     margin:auto;
-    position: relative;
-	  top: 50%;
-	  transform: 			translateY(-50%);
   }
 
   header, section, footer {
